@@ -1,0 +1,26 @@
+## Task 3: Basic Chatbot
+
+### Objective
+Build a simple rule-based chatbot that responds to predefined user inputs.
+
+### Features
+- Greets the user
+- Responds to common questions
+- Ends the conversation when the user types "bye" or "exit"
+
+### Concepts Used
+- Functions
+- if-elif statements
+- while loop
+- Input and Output
+
+---
+
+## Technologies Used
+
+- Python 3.x
+- Python IDLE
+
+## Author
+
+**Keerthi Chittem**
